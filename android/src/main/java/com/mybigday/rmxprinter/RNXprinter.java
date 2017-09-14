@@ -133,6 +133,7 @@ public class RNXprinter extends ReactContextBaseJavaModule {
 0x00, 0x00, 0x00, 0x00, 
 };
     pushByteToBuffer(img);
+    
   }
 
   @ReactMethod
